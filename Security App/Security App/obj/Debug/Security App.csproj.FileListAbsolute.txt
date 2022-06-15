@@ -1,0 +1,28 @@
+C:\Users\alecj\source\repos\Security App\Security App\bin\Debug\Security App.exe
+C:\Users\alecj\source\repos\Security App\Security App\bin\Debug\Security App.pdb
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\Security App.csprojAssemblyReference.cache
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\MainWindow.g.cs
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\App.g.cs
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\Security App_MarkupCompile.cache
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\Security App_MarkupCompile.lref
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\MainWindow.baml
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\Security App.g.resources
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\Security_App.Properties.Resources.resources
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\Security App.csproj.GenerateResource.cache
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\Security App.csproj.CoreCompileInputs.cache
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\Security App.exe
+C:\Users\alecj\source\repos\Security App\Security App\obj\Debug\Security App.pdb
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\bin\Debug\Security App.exe
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\bin\Debug\Security App.pdb
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\Security App.csproj.AssemblyReference.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\MainWindow.g.cs
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\App.g.cs
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\Security App_MarkupCompile.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\Security App_MarkupCompile.lref
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\MainWindow.baml
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\Security App.g.resources
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\Security_App.Properties.Resources.resources
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\Security App.csproj.GenerateResource.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\Security App.csproj.CoreCompileInputs.cache
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\Security App.exe
+C:\Users\alecj\OneDrive\Desktop\C# Class\Labs\Lab5\Security App\Security App\obj\Debug\Security App.pdb
